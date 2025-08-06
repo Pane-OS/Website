@@ -1,0 +1,19 @@
+# Default git behavior
+* text=auto
+
+# CRLF => LF
+*.md            text  eol=lf
+*.gitattributes text  eol=lf
+*.gitignore     text  eol=lf
+*.svg           text  eol=lf
+*.jsonc         text  eol=lf
+*.json          text  eol=lf
+*.yml           text  eol=lf
+*.js            text  eol=lf
+*.ts            text  eol=lf
+*.css           text  eol=lf
+*.html          text  eol=lf
+*.scss          text  eol=lf
+*.prettierrc    text  eol=lf
+*.prettierignore text eol=lf
+**/LICENSE      text  eol=lf
